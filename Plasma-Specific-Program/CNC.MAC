@@ -1,0 +1,8 @@
+m61=m98 torchon.mac
+m62=m98 torchoff.mac
+m63=m98 touch.mac
+m64=m98 torchcut.mac
+m65=m98 thcstart.mac
+m66=m98 thcend.mac
+
+m67=m98 testthc.mac
